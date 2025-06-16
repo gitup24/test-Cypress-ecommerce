@@ -1,0 +1,36 @@
+idea
+nv projet cypress
+
+npm init
+npm install cypress
+npx cypress open
+e2e testing
+chrome
+start testing
+create-create
+ok run spec
+fermer fenetre
+obtient doossier cypress/e2e
+créer fichier us1.cy.js
+
+editer:
+
+pr eviter import
+/// <reference types="cypress" />
+ouvrir fct
+
+npx cypress open
+cercle de cible devant barre d'URL
+selec gd zone du caroussel-copier
+coller selection ds fct cy.get()
+
+docs.cypress.io/app/get-started
+recherche "assertions"-"common assertions-class should exist
+
+meth pointee: .should('have.class')
+ou : .should('be.visible')
+-> ds colonne gauche mention "assert" verdi rectangulaire suivi de "expected" .. "to be visible"
+
+
+
+
